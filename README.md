@@ -15,6 +15,6 @@
   <samp>
     [<a href="https://twitter.com/pwnlog">twitter</a>]
     [<a href="https://youtube.com/@pwnlog">youtube</a>]
-    [<a href="https://twitch.com/@pwnlog">twitch</a>]
+    [<a href="https://twitch.com/pwnlog">twitch</a>]
   </samp>
 </p>
