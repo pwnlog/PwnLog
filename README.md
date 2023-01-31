@@ -13,6 +13,7 @@
 <p align="center"><strong><samp>Links</samp></strong></p>
 <p align="center">
   <samp>
+    [<a href="https://pwnlog.gitlab.io">blog</a>]
     [<a href="https://twitter.com/pwnlog">twitter</a>]
     [<a href="https://youtube.com/@pwnlog">youtube</a>]
     [<a href="https://twitch.com/pwnlog">twitch</a>]
