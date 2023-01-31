@@ -13,9 +13,9 @@
 <p align="center"><strong><samp>Links</samp></strong></p>
 <p align="center">
   <samp>
-    [<a href="https://pwnlog.gitlab.io">blog</a>]
-    [<a href="https://twitter.com/pwnlog">twitter</a>]
-    [<a href="https://youtube.com/@pwnlog">youtube</a>]
-    [<a href="https://twitch.com/pwnlog">twitch</a>]
+    [<a rel="noopener" href="https://pwnlog.gitlab.io" target="_blank">blog</a>]
+    [<a rel="noopener" href="https://twitter.com/pwnlog" target="_blank">twitter</a>]
+    [<a rel="noopener" href="https://youtube.com/@pwnlog" target="_blank">youtube</a>]
+    [<a rel="noopener" href="https://twitch.com/pwnlog" target="_blank">twitch</a>]
   </samp>
 </p>
