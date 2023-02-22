@@ -16,6 +16,8 @@
     [<a rel="noopener" href="https://pwnlog.gitlab.io" target="_blank">blog</a>]
     [<a rel="noopener" href="https://twitter.com/pwnlog" 
     target="_blank">twitter</a>]
+    [<a rel="noopener" href="https://www.linkedin.com/in/yadiel-log" 
+    target="_blank">linkedin</a>]
     <!-- [<a rel="noopener" href="https://youtube.com/@pwnlog" target="_blank">youtube</a>]
     [<a rel="noopener" href="https://twitch.com/pwnlog" target="_blank">twitch</a>] -->
   </samp>
