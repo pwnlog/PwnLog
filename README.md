@@ -9,7 +9,7 @@
 
 <br>
 
-<!-- Contact Me -->
+<!-- Contact Me 
 <p align="center"><strong><samp>Links</samp></strong></p>
 <p align="center">
   <samp>
@@ -17,6 +17,7 @@
     [<a rel="noopener" href="https://twitter.com/pwnlog" 
     target="_blank">twitter</a>]
     [<a rel="noopener" href="https://youtube.com/@pwnlog" target="_blank">youtube</a>]
-    <!--[<a rel="noopener" href="https://twitch.tv/pwnlog" target="_blank">twitch</a>] -->
+    [<a rel="noopener" href="https://twitch.tv/pwnlog" target="_blank">twitch</a>] 
   </samp>
 </p>
+-->
